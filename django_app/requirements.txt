@@ -1,0 +1,8 @@
+django
+django-environ
+django-cors-headers
+djangorestframework
+psycopg2-binary
+gdal
+shapely 
+networkx
